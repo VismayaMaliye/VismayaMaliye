@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Hey there 👋
-
 ```yaml
 apiVersion: v1
 kind: Human
@@ -80,6 +78,18 @@ spec:
     state: Open to new opportunities
     building: LLM-powered DevOps tooling
 ```
+
+---
+
+**AI / LLM** - LangChain, RAG, OpenAI API, Claude API, Hugging Face, MLflow, AWS SageMaker, Pinecone, ChromaDB, multi-agent systems, prompt engineering, LLMOps
+
+**Cloud & Infra** - AWS (EKS, Lambda, SageMaker, SNS/SQS, RDS, IAM, CloudWatch), Azure, GCP, Terraform, Kubernetes, Helm, ArgoCD, Docker, Ansible
+
+**Languages** - Python, Java 21, TypeScript, Node.js, Bash
+
+**CI/CD & Observability** - GitHub Actions, GitLab CI, Jenkins, Prometheus, Grafana, Datadog, Fluent Bit, OpenSearch, ELK Stack
+
+**Databases** - PostgreSQL, RDS Aurora, DynamoDB, MongoDB, Redis
 
 ---
 
