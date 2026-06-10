@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="left">
-  <a href="mailto:vismayavm99@gmail.com"><img src="https://img.shields.io/badge/vismayamaliye17@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:vismayavm99@gmail.com"><img src="https://img.shields.io/badge/vismayavm99@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/VismayaMaliye"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
