@@ -39,12 +39,13 @@ spec:
       - MLflow
       - SageMaker
     cloud:
-      - AWS (EKS, Lambda, SageMaker, SNS/SQS, RDS, IAM, CloudWatch)
-      - Azure
+      - AWS (EKS, EC2, VPC, S3, Autoscaling, Lambda, RDS, IAM, CloudWatch)
+      - Azure (ARM, Azure DevOps, Monitor, VNets, VMs, LBs, IAM, 
       - GCP
     infra_iac:
       - Terraform
       - Kubernetes
+      - GitLab/GitHub workflow
       - Helm
       - ArgoCD
       - Docker
@@ -72,12 +73,12 @@ spec:
       - Automate the toil
       - Build for production, not demos
   favorites:
-    technology: Kubernetes
+    technologies: Kubernetes, Terraform
     cloud_provider: AWS
     llm_framework: LangChain
     open_source_project: Podautopsy
   links:
-    linkedin: https://linkedin.com/in/vismaya-maliye
+    linkedin: https://www.linkedin.com/in/vismayamaliye/
     github: https://github.com/VismayaMaliye
   status:
     state: Open to new opportunities
