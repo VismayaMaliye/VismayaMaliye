@@ -10,7 +10,7 @@ apiVersion: v1
 kind: Human
 metadata:
   name: Vismaya Maliye
-  role: AI Engineer | Platform Engineer | DevOps Engineer
+  role: AI Software Engineer | Platform Engineer | DevOps Engineer
   location: Dallas, TX
   certified: AWS Solutions Architect - Associate
 spec:
